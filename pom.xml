@@ -3,7 +3,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>mvn-practice</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>mvn-practice</name>
@@ -17,7 +17,7 @@
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
         <url>git@github.com:Qibaoooo/mvn-practice.git</url>
-        <tag>HEAD</tag>
+        <tag>1.1</tag>
     </scm>
 
     <dependencies>
